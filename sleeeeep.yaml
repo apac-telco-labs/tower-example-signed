@@ -1,8 +1,0 @@
----
-- name: Hello World!
-  hosts: localhost
-  gather_facts: no
-  tasks:
-  - name: SLEEEEPING
-    pause:
-      seconds: "{{ wait_time | default(30) }}"
