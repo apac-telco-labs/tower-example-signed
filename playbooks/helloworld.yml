@@ -9,4 +9,4 @@
      msg: "Ansible version is  {{ ansible_version.full }}"
       
   - name: Hello World!
-    shell: echo "Hi! Tower is working."
+    shell: echo "Hi! AAP is working."
