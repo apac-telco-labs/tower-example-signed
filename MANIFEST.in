@@ -1,2 +1,4 @@
 recursive-exclude .git *
+exclude LICENSE
+exclude README.md
 recursive-include playbooks *.y*
