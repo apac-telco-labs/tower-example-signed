@@ -12,4 +12,4 @@
         # or
         name: configure_banner
       vars:
-        text: "This is EVE-NG Router! Generated from GIT"
+        text: "This is EVE-NG Router! Generated from NBN"
